@@ -1,0 +1,9 @@
+Session Info
+============
+
+Date: 2026-05-01
+Branch: trial-pr
+Working directory: /home/gh-app-test/work/test
+Platform: Linux 6.17.0-1007-aws
+Shell: bash
+Model: Claude Opus 4.7
